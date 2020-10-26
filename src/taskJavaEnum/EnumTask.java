@@ -31,7 +31,7 @@ enum months {
 
 public class EnumTask {
     public static void main(String[] args) {
-        System.out.println("please enter the day of the week ");
+        System.out.println("Please enter the month ");
         Scanner scanner = new Scanner(System.in);
         String month = scanner.nextLine().toUpperCase();
         scanner.close();
