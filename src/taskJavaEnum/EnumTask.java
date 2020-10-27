@@ -70,8 +70,6 @@ public class EnumTask {
             case DECEMBER:
                 System.out.println(currentMonth.getNumberOfDays() - todayDay + " Days left in " + currentMonth + "!");
                 break;
-            default:
-                System.out.println("Wrong entry");
         }
     }
 }
