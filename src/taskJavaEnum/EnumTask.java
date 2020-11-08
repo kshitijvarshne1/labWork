@@ -23,6 +23,7 @@ enum months {
     OCTOBER(31),
     NOVEMBER(30),
     DECEMBER(31);
+
     private final int numberOfDays;
 
     months(int numberOfDays) {
