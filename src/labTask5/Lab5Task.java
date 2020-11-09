@@ -12,7 +12,6 @@ package labTask5;
  */
 public class Lab5Task {
     private static final byte RANDOM_NUMBER_MAX_LIMIT = 10;
-
     /**
      * This method generates an OTP for the customer depending upon the number of digits.
      *
